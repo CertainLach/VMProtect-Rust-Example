@@ -1,0 +1,5 @@
+[package]
+name = "vmprotect_example"
+version = "0.1.0"
+authors = ["Лач <iam@lach.pw>"]
+edition = "2018"
